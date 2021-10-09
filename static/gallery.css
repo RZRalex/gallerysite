@@ -4,3 +4,7 @@ body *{
     border: 0px;
     outline: 0px;
 }
+
+#logo {
+    height: 4em;
+}
