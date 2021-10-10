@@ -5,6 +5,18 @@ body *{
     outline: 0px;
 }
 
-#logo {
-    height: 4em;
+figure.logo{
+    display: flex;
+    justify-content: center;
+}
+
+img#logo{
+    height: 128px;
+    width: 128px;
+    margin-top: 2em;
+}
+
+div#title{
+    display: flex;
+    justify-content: center;
 }
