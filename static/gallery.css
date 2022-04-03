@@ -5,6 +5,10 @@ body *{
     outline: 0px;
 }
 
+header{
+    margin-bottom: 2rem;
+}
+
 figure.logo{
     display: flex;
     justify-content: center;
@@ -19,4 +23,8 @@ img#logo{
 div#title{
     display: flex;
     justify-content: center;
+}
+
+div.is-ancestor{
+    padding: 0em 1em 1em 1em ;
 }
