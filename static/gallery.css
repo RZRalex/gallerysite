@@ -25,6 +25,10 @@ div#title{
     justify-content: center;
 }
 
-div.is-ancestor{
+/* div.is-ancestor{
     padding: 0em 1em 1em 1em ;
+} */
+
+section {
+    padding: 1em
 }
